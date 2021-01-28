@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Programming languages**:
+- _Python_ :heart:
+  - **_Numpy_**
+  - **_Pandas_**
+  - **_Matplotlib_**
+  - **_Seaborn_**
+- _R_
+- _MATLAB_
